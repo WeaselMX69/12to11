@@ -1,0 +1,3 @@
+[submodule "libXpresent"]
+	path = libXpresent
+	url = https://gitlab.freedesktop.org/xorg/lib/libXpresent.git
